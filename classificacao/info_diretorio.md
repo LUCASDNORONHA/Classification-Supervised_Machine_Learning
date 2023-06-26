@@ -1,0 +1,3 @@
+Neste diretório, estão armazenados diversos algoritmos de classificação de machine learning, além do algoritmo que construí para pré-processar duas bases de dados que aplicarei no treinamento desses algoritmos.
+
+Realizei o pré-processamento de uma base de dados de crédito e uma base de dados do censo. Irei trabalhar com essas duas bases de dados em paralelo, aplicando diversos algoritmos de machine learning com o objetivo de avaliar a precisão de classificação inferida por cada um deles e eleger o mais adequado para lidar com essas duas bases de dados.

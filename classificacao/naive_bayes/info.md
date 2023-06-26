@@ -1,0 +1,1 @@
+Aqui está armazenado o algoritmo Naive Bayes que utilizei na classificação das bases de dados de credito e do censo.

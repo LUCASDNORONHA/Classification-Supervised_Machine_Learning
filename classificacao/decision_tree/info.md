@@ -1,0 +1,1 @@
+Aqui está armazenado o algoritmo de Ávore de Decisão que utilizei na classificação das bases de dados de credit e do censo.

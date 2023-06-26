@@ -1,0 +1,1 @@
+Aqui está armazenado o algoritmo Randon Forest que utilizei na classificação da base de dados do censo e de credit.
