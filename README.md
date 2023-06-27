@@ -1,7 +1,7 @@
 # Machine_Learning
 (Em processo continuo de atualização)
 
-Este repositório abriga uma coleção de algoritmos de Machine Learning e Data Science. Aqui você encontrará implementações de algoritmos populares utilizados em tarefas de classificação, regressão, agrupamento, processamento de linguagem natural entre outra.
+Este repositório abriga uma coleção de algoritmos de Machine Learning e Data Science. Aqui você encontrará implementações de algoritmos populares utilizados em tarefas de classificação, regressão, agrupamento, processamento de linguagem natural e etc.
 
 Tomei a liberdade de organizar cuidadosamente e documentar todos os meus passos, facilitando a compreensão e o uso em diferentes projetos. Além disso, você encontrará exemplos práticos de aplicação desses algoritmos em conjuntos de dados reais, permitindo que você aprenda e explore suas funcionalidades.
 
