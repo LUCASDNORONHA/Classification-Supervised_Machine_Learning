@@ -1,0 +1,1 @@
+Aqui está armazenado o algoritmo de aprendizado por regras CN2, utilizado para classificação das bases de credito e censo.
