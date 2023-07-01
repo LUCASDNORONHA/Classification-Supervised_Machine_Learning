@@ -1,0 +1,1 @@
+Aqui está armazenado o algoritmo multi-layer perceptron utilizado para classificar os dados da base de crédito e do censo.

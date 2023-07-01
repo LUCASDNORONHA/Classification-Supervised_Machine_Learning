@@ -1,0 +1,1 @@
+Aqui está armazenado o algoritmo de k-NN utilizado para classificação dos dados da base de Crédito e do Censo.

@@ -1,0 +1,1 @@
+Aqui está armazenado o algoritmo de regressão logitica utilizado para classificar a base de dados de crédito e do censos.

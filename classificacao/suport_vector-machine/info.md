@@ -1,0 +1,1 @@
+Aqui está armazenado o algoritmo SVM utilizado para classificação dos dados da base de crédito e do censo.
