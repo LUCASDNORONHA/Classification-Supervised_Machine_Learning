@@ -1,13 +1,13 @@
 # Machine_Learning
-(Em processo continuo de atualização)
+(Em processo de atualização)
 
 Este repositório abriga uma coleção de algoritmos de Machine Learning e Data Science. Aqui você encontrará implementações de algoritmos populares utilizados em tarefas de classificação, regressão, agrupamento, processamento de linguagem natural e etc.
 
-Tomei a liberdade de organizar cuidadosamente e documentar todos os meus passos, facilitando a compreensão e o uso em diferentes projetos. Além disso, você encontrará exemplos práticos de aplicação desses algoritmos em conjuntos de dados reais, permitindo que você aprenda e explore suas funcionalidades.
+Tomei a liberdade de organizar cuidadosamente e documentar todos os meus passos. Além disso, você encontrará exemplos práticos de aplicação desses algoritmos em conjuntos de dados reais.
 
-Principais tópicos que irei abordados e armazenar neste repositório:
+Principais tópicos que irei abordados neste repositório:
 
-**Classificação:** pré-processamento dos dados, naïve bayes, árvores de decisão, random forest, regras, regressão logística, máquinas de vetores de suporte (SVM), redes neurais artificiais, avaliação de algoritmos e combinação e rejeição de classificadores;
+**Classificação:** pré-processamento de dados, naïve bayes, árvores de decisão, random forest, aprendizado por regras, regressão logística, máquinas de vetores de suporte (SVM), redes neurais artificiais (MLP), avaliação de algoritmos, salvamento de modelos de machine learning e combinação e rejeição de classificadores;
 
 **Regressão:** regressão linear simples e múltipla, polinomial, árvores de decisão, random forest, vetores de suporte (SVR) e redes neurais artificiais;
 
