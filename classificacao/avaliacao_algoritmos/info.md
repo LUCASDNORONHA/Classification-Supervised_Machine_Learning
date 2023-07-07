@@ -1,0 +1,1 @@
+Neste repositório está armazenado o algoritmo que utilizei para avaliação dos modelos de machine learning de classificação da base de crédito.

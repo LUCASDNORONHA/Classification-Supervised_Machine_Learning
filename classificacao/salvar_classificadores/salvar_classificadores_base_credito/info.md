@@ -1,0 +1,1 @@
+Neste diretório está armazenado o algoritmo que utilizei para salvar os modelos classificadores da base de dados do crédito.
