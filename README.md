@@ -19,4 +19,4 @@ Principais tópicos que irei abordados neste repositório:
 
 
 
-A documentação deste repositorio foi baseado no meu aprendizado durante o curso de Marchine Learning e Data Science do professor Jones Granatyr, da IA Expert Academy.
+A documentação deste repositorio está sendo baseado na minha jornada de aprendizado de algoritmos de Machine Learning.
