@@ -20,5 +20,9 @@ Tomei a liberdade de organizar cuidadosamente e documentar todos os meus passos.
 
 A documentação deste repositorio foi baseado no meu aprendizado durante o minha jornada de aprendizado com algoritmos de machine learning, e estarei atualizando sempre que possível.
 
+<<<<<<< HEAD
 
 ![Machine Learning](https://cdn-dgmnm.nitrocdn.com/LHsjuemVzrAvilkBHAIXDtrqvflBFfgP/assets/images/source/rev-8c04f8c/www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning-1024x535.jpg)
+=======
+A documentação deste repositorio está sendo baseado na minha jornada de aprendizado de algoritmos de Machine Learning.
+>>>>>>> 3eb57bad59f3e382d81a850e57dc27627c1bc49f
