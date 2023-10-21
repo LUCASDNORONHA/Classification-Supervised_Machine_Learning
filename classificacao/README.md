@@ -1,4 +1,6 @@
-# Sobre o repositório:
+# Algoritmos de Classificação de Machine Learning
+
+### Sobre o repositório:
 
 Neste diretório, estão armazenados diversos algoritmos de classificação de machine learning, além de modelos de algoritmos de classificação de machine learning que foram treinados com duas bases de dados.
 
