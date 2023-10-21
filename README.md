@@ -20,6 +20,6 @@ Tomei a liberdade de organizar cuidadosamente e documentar todos os meus passos.
 
 A documentação deste repositorio foi baseado no meu aprendizado durante o minha jornada de aprendizado com algoritmos de machine learning, e estarei atualizando sempre que possível.
 
-Para compreensão de todas informações aqui armazenadas, é recomendo ter conhecimento basíco sobre cada algoritmo, tal como de estática, matemática, e machine learning.
+Para compreensão de todas informações aqui armazenadas, é recomendo ter conhecimento básico sobre cada algoritmo, tal como de estática, matemática, e programação com a linguagem Python.
 
 ![Machine Learning](https://cdn-dgmnm.nitrocdn.com/LHsjuemVzrAvilkBHAIXDtrqvflBFfgP/assets/images/source/rev-8c04f8c/www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning-1024x535.jpg)
