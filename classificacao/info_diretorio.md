@@ -1,3 +1,7 @@
-Neste diretório, estão armazenados diversos algoritmos de classificação de machine learning, além do algoritmo que construí para pré-processar duas bases de dados que aplicarei no treinamento desses algoritmos.
+# Sobre o repositório:
 
-Realizei o pré-processamento de uma base de dados de crédito e uma base de dados do censo. Irei trabalhar com essas duas bases de dados em paralelo, aplicando diversos algoritmos de machine learning com o objetivo de avaliar a precisão de classificação inferida por cada um deles e eleger o mais adequado para lidar com essas duas bases de dados.
+Neste diretório, estão armazenados diversos algoritmos de classificação de machine learning, além de modelos de algoritmos de classificação de machine learning que foram treinados com duas bases de dados.
+
+### O que eu foi estudado:
+
+Realizei um estudo de caso onde fiz o pré-processamento de uma base de dados de crédito e outra para uma base de dados do censo. Trabalhei com essas duas bases de dados em paralelo, aplicando diversos algoritmos de machine learning com o objetivo de avaliar a precisão de classificação inferida por cada um deles e eleger o,modelo mais adequado para lidar aplicações em casos semelhantes do mundo real.

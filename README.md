@@ -1,5 +1,6 @@
 # Machine_Learning
-(Em processo de atualização)
+
+*(Em processo de atualização)*
 
 Este repositório abriga uma coleção de algoritmos de Machine Learning e Data Science. Aqui você encontrará implementações de algoritmos populares utilizados em tarefas de classificação, regressão, agrupamento, processamento de linguagem natural e etc.
 
@@ -20,6 +21,7 @@ Tomei a liberdade de organizar cuidadosamente e documentar todos os meus passos.
 
 A documentação deste repositorio foi baseado no meu aprendizado durante o minha jornada de aprendizado com algoritmos de machine learning, e estarei atualizando sempre que possível.
 
-Para compreensão de todas informações aqui armazenadas, é recomendo ter conhecimento básico sobre cada algoritmo, tal como de estática, matemática, e programação com a linguagem Python.
+#### Atenção!
+Para compreensão de todas informações aqui armazenadas, é recomendo ter conhecimento básico sobre cada algoritmo, tal como de estática, matemática e programação com a linguagem Python.
 
 ![Machine Learning](https://cdn-dgmnm.nitrocdn.com/LHsjuemVzrAvilkBHAIXDtrqvflBFfgP/assets/images/source/rev-8c04f8c/www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning-1024x535.jpg)
