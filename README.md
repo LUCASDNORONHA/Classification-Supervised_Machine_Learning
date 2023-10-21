@@ -5,7 +5,7 @@ Este repositório abriga uma coleção de algoritmos de Machine Learning e Data 
 
 Tomei a liberdade de organizar cuidadosamente e documentar todos os meus passos. Além disso, você encontrará exemplos práticos de aplicação desses algoritmos em conjuntos de dados reais.
 
-Principais tópicos que irei abordados neste repositório:
+## Principais tópicos que irei abordados neste repositório:
 
 **Classificação:** pré-processamento de dados, naïve bayes, árvores de decisão, random forest, aprendizado por regras, regressão logística, máquinas de vetores de suporte (SVM), redes neurais artificiais (MLP), avaliação de algoritmos, salvamento de modelos de machine learning e combinação e rejeição de classificadores;
 
@@ -18,5 +18,7 @@ Principais tópicos que irei abordados neste repositório:
 **Tópicos complementares:** redução de dimensionalidade com PCA, KernelPCA e LDA, deteção de outliers, aprendizagem por reforço, processamento de linguagem natural, visão computacional, tratamento de dados desbalanceados, seleção de atributos e previsão de séries temporais.
 
 
+A documentação deste repositorio foi baseado no meu aprendizado durante o minha jornada de aprendizado com algoritmos de machine learning, e estarei atualizando sempre que possível.
 
-A documentação deste repositorio foi baseado no meu aprendizado durante o curso de Marchine Learning e Data Science do professor Jones Granatyr, da IA Expert Academy.
+
+![Machine Learning](https://cdn-dgmnm.nitrocdn.com/LHsjuemVzrAvilkBHAIXDtrqvflBFfgP/assets/images/source/rev-8c04f8c/www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning-1024x535.jpg)
