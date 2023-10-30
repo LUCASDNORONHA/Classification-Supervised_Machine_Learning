@@ -6,7 +6,7 @@ Este repositório abriga uma coleção de algoritmos de Machine Learning e Data 
 
 Tomei a liberdade de organizar cuidadosamente e documentar todos os meus passos. Além disso, você encontrará exemplos práticos de aplicação desses algoritmos em conjuntos de dados reais.
 
-## Principais tópicos que irei abordados neste repositório:
+## Principais tópicos abordados neste repositório:
 
 **Classificação:** pré-processamento de dados, naïve bayes, árvores de decisão, random forest, aprendizado por regras, regressão logística, máquinas de vetores de suporte (SVM), redes neurais artificiais (MLP), avaliação de algoritmos, salvamento de modelos de machine learning e combinação e rejeição de classificadores;
 
