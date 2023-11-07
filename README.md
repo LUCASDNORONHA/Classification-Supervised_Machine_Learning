@@ -24,4 +24,4 @@ A documentação deste repositorio foi baseado no meu aprendizado durante o minh
 #### Atenção!
 Para compreensão de todas informações aqui armazenadas, é recomendo ter conhecimento básico sobre cada algoritmo, tal como de estatística, matemática e programação com a linguagem Python.
 
-![Machine Learning](https://cdn-dgmnm.nitrocdn.com/LHsjuemVzrAvilkBHAIXDtrqvflBFfgP/assets/images/source/rev-8c04f8c/www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning-1024x535.jpg)
+![Machine Learning](https://wallpaperaccess.com/full/1426962.jpg)
