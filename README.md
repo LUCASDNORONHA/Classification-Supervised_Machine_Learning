@@ -14,4 +14,4 @@ A documentação deste repositório foi baseada no meu aprendizado durante a jor
 
 Para compreensão de todas as informações armazenadas aqui, é recomendado ter conhecimento básico sobre cada algoritmo, assim como em estatística, matemática e programação com a linguagem Python.
 
-![Machine Learning](https://wallpaperaccess.com/full/1426962.jpg)
+![Machine Learning](https://datamahadev.com/wp-content/uploads/2020/09/Classification-in-Machine-Learning-datamahadev.com_.jpeg)
